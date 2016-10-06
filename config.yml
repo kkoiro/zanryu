@@ -1,0 +1,17 @@
+---
+
+sfs_url: 'https://vu.sfc.keio.ac.jp/sfc-sfs/login.cgi'
+stay_url: 'https://vu.sfc.keio.ac.jp/sfc-sfs/sfs_class/stay/stay_input.cgi'
+
+ks: 'A0000'
+yc: '0000_00000'
+
+cns_account: 't00000aa'
+cns_password: 'password'
+my_phone_num: ''
+emergency_phone_num: ''
+estimated_time_to_stay: '00:00'
+building: ''
+floor: ''
+room: ''
+reasen: 'For research'
