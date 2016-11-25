@@ -4,8 +4,13 @@
 
 ## Introduction
 
-To stay at a university is called as **Zanryu** in SFC.  
+To stay overnight at a university is called **Zanryu** in SFC.  
 This script enable you to submit an online report for **Zanryu** easily.
+
+
+## Environment
+
+ruby >=2.0
 
 
 ## How to use
