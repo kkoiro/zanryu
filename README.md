@@ -10,16 +10,16 @@ This script enable you to submit an online report for **Zanryu** easily.
 
 ## How to use
 
-You need to configure first, and  you can run the script.  
+You need to configure first, and you can run the script.
 
-### config
+### Configuration
 
 Please fill out 'config.yml' by following the tables below.
 
 #### Parameter descriptions
 
 | parameter | description |
-|:-:|:-|
+|:---:|:---|
 | sfs_url | sfs url. Leave it default. |
 | stay_url | stay page url. Leave it default. |
 | ks | Access to your class page on SFC-SFS and find 'ks-XXXXX&yc-XXXXX' in URL. |
@@ -37,7 +37,7 @@ Please fill out 'config.yml' by following the tables below.
 #### Building options
 
 | building | number |
-|:-:|:-|
+|:---:|:---|
 | Kappa | 1 |
 | Epsilon | 2 |
 | Iota | 3 |
@@ -53,7 +53,7 @@ Please fill out 'config.yml' by following the tables below.
 #### Floor options
 
 | building | floor options |
-|:-:|:-|
+|:---:|:---|
 | Kappa | 1,2,3,4,5 |
 | Epsilon | 1,2,3,4,5 |
 | Iota | 1,2,3,4,5 |
