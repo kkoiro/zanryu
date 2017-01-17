@@ -6,7 +6,7 @@ require 'uri'
 require 'yaml'
 
 
-config = YAML.load_file('config.yml')
+config = YAML.load_file(File.expand_path('../config.yml', __FILE__))
 
 sfs_url = config['sfs_url']
 stay_url = config['stay_url']

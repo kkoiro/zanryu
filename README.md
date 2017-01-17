@@ -16,6 +16,7 @@ ruby >=2.0
 ## How to use
 
 You need to configure first, and you can run the script.
+Configure parameters in 'config_example.yml', and change its file name to 'config.yml'
 
 ### Configuration
 
