@@ -62,7 +62,7 @@ stay_res = Net::HTTP.post_form(stay_url, {
 if stay_res.code != '200'
   raise 'SFC-SFS stay_input.cgi URL is incorrect'
 elsif !stay_res.body.include?('form name="cancel"')
-  raise 'Insufficient submitted information '
+  raise 'Insufficient or incorrect information are submitted'
 else
   puts 'Successfully submited!'
 end
