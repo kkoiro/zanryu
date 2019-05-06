@@ -1,5 +1,5 @@
 # Zanryu
-===
+---
 
 
 ## Introduction
@@ -80,4 +80,4 @@ ruby zanryu.rb
 
 
 ## Note
-It is possible to submit the report between 18:00 ~ 03:00.
+You can submit your report between 18:00 ~ 03:00.
