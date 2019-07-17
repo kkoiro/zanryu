@@ -64,5 +64,5 @@ if stay_res.code != '200'
 elsif !stay_res.body.include?('form name="cancel"')
   raise 'Insufficient or incorrect information are submitted'
 else
-  puts 'Successfully submited!'
+  puts 'Successfully submitted!'
 end
